@@ -15,7 +15,17 @@ The main goal of our work is to create requisites and visualizations for cliamte
 
 ## <img src="misc/developmentn.png" width="500"  >
 
+* We created a hi-fi prototype of platform that could show and give out all that information and climate data, in an organized and integrated way, so anyone who's interest can get their right approach to the program. It's called "Climmate", or how we like to call it, our "climate mate".
+
 
 <img src="misc/gif-mockup.gif" alt="mockup" width="700" height="394" align="middle">
 
+<img src="misc/1667px-Figma-logo.svg.png" alt="figma" height="50" align="left">
+
+* Our prototype was made on the Figma platform, it has 6 screens that show many charts and graphs.  
+
+
 ## <img src="misc/contactn.png" width="500"  >
+
+* You can know more of the project by going to our <a href="climmate.me"> Climmate </a> site.
+
